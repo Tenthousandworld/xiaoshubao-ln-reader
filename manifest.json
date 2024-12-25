@@ -1,0 +1,9 @@
+{
+  "id": "xiaoshubao-ln-reader",
+  "version": "1.0.0",
+  "name": "Xiaoshubao LN Reader Plugin",
+  "description": "Integrates Xiaoshubao novels into the LN Reader app.",
+  "author": "Tenthousandworld",
+  "main": "script.js",
+  "novels": "novels.json"
+}
