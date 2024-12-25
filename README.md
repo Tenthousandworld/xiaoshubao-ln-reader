@@ -1,2 +1,4 @@
-# xiaoshubao-ln-reader
-"Repository for integrating Xiaoshubao novels into an LN APP."
+
+# Xiaoshubao LN Reader
+
+Repository for integrating Xiaoshubao novels into an LN Reader.
